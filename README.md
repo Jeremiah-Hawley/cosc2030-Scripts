@@ -1,4 +1,4 @@
-#How to use
+# How to use
 clone the repo into your home directory, then run:
 ```bash
 mv cosc2030-Scripts/* ./
